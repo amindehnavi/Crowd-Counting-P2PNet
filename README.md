@@ -11,6 +11,7 @@ in this project we used P2PNet model [[Paper](https://arxiv.org/abs/2107.12746)]
 1. clone this repository: `git clone https://github.com/amindehnavi/Crowd-Counting-P2PNet`  
 2. change the current directory into `CrowdCounting-P2PNet` folder: `cd CrowdCounting-P2PNet`  
 3. install requirements libraries using `pip install -r requirements.txt` command.  
+4. download the [vgg16-bn](https://download.pytorch.org/models/vgg16_bn-6c64b313.pth)/[vgg16](https://download.pytorch.org/models/vgg16-397923af.pth) pretrained weight on ImageNet and put it in `checkpoints` folder
 
 # Demo
 
